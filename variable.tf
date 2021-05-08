@@ -12,7 +12,7 @@ variable "amiid" {
 }
 
 variable "instance_count" {
-  default = "1"
+  default = "2"
 }
 variable "key_name" {
   default     = "awsTerraform0607"
